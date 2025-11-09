@@ -16,7 +16,7 @@ Unzip somewhere on your PC.
 
 B. Git clone (for devs)
 
-git clone https://github.com/<yourname>/fsr-antihw.git
+git clone https://github.com/<Surelad>/fsr-antihw.git
 cd fsr-antihw
 
 🧩 Load unpacked into Chrome (2 minutes)
