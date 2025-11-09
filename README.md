@@ -1,3 +1,5 @@
+# Created By Surelad
+
 # FSR-AntiHW — Quick Start & Releases 🚀
 
 FSR-AntiHW reads a passage you paste into the popup, looks at a multiple-choice question on the page, asks an AI which answer is best, then highlights & clicks that answer for you. Fast to install, easy to use.
