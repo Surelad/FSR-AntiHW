@@ -6,7 +6,7 @@ FSR-AntiHW reads a passage you paste into the popup, looks at a multiple-choice 
 
 A. Download ZIP (easy)
 
-Click Code → Download ZIP on this repo.
+Click Releases ➡️ Source Code zip
 
 Unzip somewhere on your PC.
 
