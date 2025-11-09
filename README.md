@@ -1,12 +1,8 @@
-FSR-AntiHW — Quick Start & Releases 🚀
+# FSR-AntiHW — Quick Start & Releases 🚀
 
 FSR-AntiHW reads a passage you paste into the popup, looks at a multiple-choice question on the page, asks an AI which answer is best, then highlights & clicks that answer for you. Fast to install, easy to use.
 
-🔥 What it does
-
-Paste the passage into the popup, save it, open the question page, click Show Answer — the extension will attempt to answer a few questions automatically.
-
-⬇️ Get the files
+## ⬇️ How to download
 
 A. Download ZIP (easy)
 
@@ -19,7 +15,7 @@ B. Git clone (for devs)
 git clone https://github.com/<Surelad>/fsr-antihw.git
 cd fsr-antihw
 
-🧩 Load unpacked into Chrome (2 minutes)
+## 🧩 Load unpacked into Chrome (2 minutes)
 
 Open Chrome and go to chrome://extensions/.
 
@@ -31,7 +27,7 @@ Select the unzipped fsr-antihw folder (the folder containing manifest.json).
 
 You should now see FSR-AntiHW in your extensions list.
 
-⚙️ First use — simple steps
+## ⚙️ First use — simple steps
 
 Click the extension icon (top-right) → popup opens.
 
@@ -45,7 +41,7 @@ Click 👁️ Show Answer in the popup → the script runs on the active tab and
 
 It will attempt several questions before stopping.
 
-🛠 Troubleshooting
+## 🛠 Troubleshooting
 
 Nothing happens? Make sure you saved the passage first.
 
@@ -69,7 +65,7 @@ Releases on this GitHub repo (check the Releases tab)
 
 If you can’t get it working from a release, search those subreddits for the newest build or instructions.
 
-🔒 Privacy & security notes (read this)
+## 🔒 Privacy & security notes (read this)
 
 Do not paste sensitive info into the passage — the text is sent to the AI service.
 
@@ -77,7 +73,7 @@ The shipped build may use obfuscation to hide keys from casual file viewing — 
 
 Best practice: run your own backend and store the API key in an environment variable (env). Point content.js to your endpoint. This is the only real way to protect your key long-term.
 
-🧰 Want privacy or reliability?
+## 🧰 Want privacy or reliability?
 
 Deploy a tiny server (Cloudflare Worker, Vercel, Render) and save COHERE_KEY as an env var.
 
@@ -85,13 +81,10 @@ Change content.js to POST to your server instead of Cohere directly.
 
 This avoids shared key exhaustion and keeps control with you.
 
-❤️ Contributing & support
+## ❤️ Contributing & support
 
 Found a bug or a site the extension doesn’t work on? Open an issue or submit a PR.
 
 For the latest builds or keys: check GitHub Releases, r/fucksparx, or r/fucksparxreader.
 Need the latest release or a replacement key? Check the repo Releases page or our Discord.
 
-📜 License
-
-Choose your license (MIT recommended). Add LICENSE file to the repo.
