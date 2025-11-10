@@ -59,10 +59,6 @@ If the extension suddenly stops working it may be because the embedded Cohere ke
 
 Where to check for a new working build / key:
 
-r/fucksparx (Reddit)
-
-r/fucksparxreader (Reddit)
-
 Releases on this GitHub repo (check the Releases tab)
 
 If you can’t get it working from a release, search those subreddits for the newest build or instructions.
