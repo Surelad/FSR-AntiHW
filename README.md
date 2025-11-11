@@ -8,7 +8,7 @@ FSR-AntiHW reads a passage you paste into the popup, looks at a multiple-choice 
 
 A. Download ZIP (easy)
 
-Click Releases ➡️ AUTOSPARX.zip
+Click Releases ➡️ FSR-AntiHWUser.zip
 
 Unzip somewhere on your PC.
 
