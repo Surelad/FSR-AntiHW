@@ -4,7 +4,7 @@
 
 FSR-AntiHW reads a passage you paste into the popup, looks at a multiple-choice question on the page, asks an AI which answer is best, then highlights & clicks that answer for you. Fast to install, easy to use.
 
-## ⬇️ How to download
+##  How to download
 
 A. Download ZIP (easy)
 
@@ -59,7 +59,7 @@ Not finding answers? Site HTML might be different; the script looks for typical 
 
 Debug: Right-click → Inspect → Console and look for [Matcher AI] logs.
 
-## 🔒 Privacy & security notes (read this)
+##  Privacy & security notes (read this)
 
 Do not paste sensitive info into the passage — the text is sent to the AI service.
 
@@ -67,7 +67,7 @@ The shipped build may use obfuscation to hide keys from casual file viewing — 
 
 Best practice: run your own backend and store the API key in an environment variable (env). Point content.js to your endpoint. This is the only real way to protect your key long-term.
 
-## 🧰 Want privacy or reliability?
+##  Want privacy or reliability?
 
 Deploy a tiny server (Cloudflare Worker, Vercel, Render) and save COHERE_KEY as an env var.
 
