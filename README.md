@@ -17,6 +17,14 @@ B. Git clone (for devs)
 git clone https://github.com/<Surelad>/fsr-antihw.git
 cd fsr-antihw
 
+## How to get Your API Key
+
+Go to https://cohere.com/ and make an account.
+
+Next go to https://dashboard.cohere.com/api-keys and generate a key.
+
+Copy this key paste into content.js into the brackets where it says YOUR_API_KEY_GOES_HERE
+
 ## 🧩 Load unpacked into Chrome (2 minutes)
 
 Open Chrome and go to chrome://extensions/.
